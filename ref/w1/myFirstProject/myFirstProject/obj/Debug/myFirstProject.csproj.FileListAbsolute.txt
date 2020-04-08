@@ -1,0 +1,23 @@
+C:\Users\Mike\myFirstProject\myFirstProject\obj\Debug\myFirstProject.csprojAssemblyReference.cache
+C:\Users\Mike\myFirstProject\myFirstProject\obj\Debug\myFirstProject.myForm.resources
+C:\Users\Mike\myFirstProject\myFirstProject\obj\Debug\myFirstProject.Properties.Resources.resources
+C:\Users\Mike\myFirstProject\myFirstProject\obj\Debug\myFirstProject.csproj.GenerateResource.cache
+C:\Users\Mike\myFirstProject\myFirstProject\obj\Debug\myFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Mike\myFirstProject\myFirstProject\bin\Debug\myFirstProject.exe.config
+C:\Users\Mike\myFirstProject\myFirstProject\bin\Debug\myFirstProject.exe
+C:\Users\Mike\myFirstProject\myFirstProject\bin\Debug\myFirstProject.pdb
+C:\Users\Mike\myFirstProject\myFirstProject\obj\Debug\myFirstProject.exe
+C:\Users\Mike\myFirstProject\myFirstProject\obj\Debug\myFirstProject.pdb
+C:\Users\myfolder\myFirstProject (1)\myFirstProject\myFirstProject\obj\Debug\myFirstProject.csprojAssemblyReference.cache
+C:\Users\myfolder\myFirstProject (1)\myFirstProject\myFirstProject\obj\Debug\myFirstProject.exe
+C:\Users\myfolder\myFirstProject (1)\myFirstProject\myFirstProject\obj\Debug\myFirstProject.pdb
+C:\Users\Kevin\Documents\PCC\CIS133N\myFirstProject\myFirstProject\bin\Debug\myFirstProject.exe.config
+C:\Users\Kevin\Documents\PCC\CIS133N\myFirstProject\myFirstProject\bin\Debug\myFirstProject.exe
+C:\Users\Kevin\Documents\PCC\CIS133N\myFirstProject\myFirstProject\bin\Debug\myFirstProject.pdb
+C:\Users\Kevin\Documents\PCC\CIS133N\myFirstProject\myFirstProject\obj\Debug\myFirstProject.csprojAssemblyReference.cache
+C:\Users\Kevin\Documents\PCC\CIS133N\myFirstProject\myFirstProject\obj\Debug\myFirstProject.myForm.resources
+C:\Users\Kevin\Documents\PCC\CIS133N\myFirstProject\myFirstProject\obj\Debug\myFirstProject.Properties.Resources.resources
+C:\Users\Kevin\Documents\PCC\CIS133N\myFirstProject\myFirstProject\obj\Debug\myFirstProject.csproj.GenerateResource.cache
+C:\Users\Kevin\Documents\PCC\CIS133N\myFirstProject\myFirstProject\obj\Debug\myFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\PCC\CIS133N\myFirstProject\myFirstProject\obj\Debug\myFirstProject.exe
+C:\Users\Kevin\Documents\PCC\CIS133N\myFirstProject\myFirstProject\obj\Debug\myFirstProject.pdb

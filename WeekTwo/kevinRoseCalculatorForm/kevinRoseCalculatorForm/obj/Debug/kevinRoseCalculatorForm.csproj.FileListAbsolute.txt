@@ -1,0 +1,10 @@
+C:\Users\Kevin\Documents\PCC\CIS133N\WeekTwo\kevinRoseCalculatorForm\kevinRoseCalculatorForm\bin\Debug\kevinRoseCalculatorForm.exe.config
+C:\Users\Kevin\Documents\PCC\CIS133N\WeekTwo\kevinRoseCalculatorForm\kevinRoseCalculatorForm\bin\Debug\kevinRoseCalculatorForm.exe
+C:\Users\Kevin\Documents\PCC\CIS133N\WeekTwo\kevinRoseCalculatorForm\kevinRoseCalculatorForm\bin\Debug\kevinRoseCalculatorForm.pdb
+C:\Users\Kevin\Documents\PCC\CIS133N\WeekTwo\kevinRoseCalculatorForm\kevinRoseCalculatorForm\obj\Debug\kevinRoseCalculatorForm.csprojAssemblyReference.cache
+C:\Users\Kevin\Documents\PCC\CIS133N\WeekTwo\kevinRoseCalculatorForm\kevinRoseCalculatorForm\obj\Debug\kevinRoseCalculatorForm.Form1.resources
+C:\Users\Kevin\Documents\PCC\CIS133N\WeekTwo\kevinRoseCalculatorForm\kevinRoseCalculatorForm\obj\Debug\kevinRoseCalculatorForm.Properties.Resources.resources
+C:\Users\Kevin\Documents\PCC\CIS133N\WeekTwo\kevinRoseCalculatorForm\kevinRoseCalculatorForm\obj\Debug\kevinRoseCalculatorForm.csproj.GenerateResource.cache
+C:\Users\Kevin\Documents\PCC\CIS133N\WeekTwo\kevinRoseCalculatorForm\kevinRoseCalculatorForm\obj\Debug\kevinRoseCalculatorForm.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\PCC\CIS133N\WeekTwo\kevinRoseCalculatorForm\kevinRoseCalculatorForm\obj\Debug\kevinRoseCalculatorForm.exe
+C:\Users\Kevin\Documents\PCC\CIS133N\WeekTwo\kevinRoseCalculatorForm\kevinRoseCalculatorForm\obj\Debug\kevinRoseCalculatorForm.pdb
